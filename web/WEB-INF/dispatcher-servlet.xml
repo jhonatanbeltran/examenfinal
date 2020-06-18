@@ -20,8 +20,9 @@
         <property name="mappings">
             <props>
                 <prop key="index.htm">controlador</prop>
-                <prop key="agregar.htm">controlador</prop>
-                 <prop key="editar.htm">controlador</prop>
+                <prop key="datospersonales.htm">controlador</prop>
+                 <prop key="ingrear.htm">controlador</prop>
+                 <prop key="Visitante.htm">controlador</prop>
             </props>
         </property>
     </bean>
